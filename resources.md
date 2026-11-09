@@ -6,16 +6,16 @@
 
 [Porównanie przychodów różnych lotnisk w Polsce, rok 2022](https://www.pasazer.com/news/464390/raport,polskie,spolki,lotniskowe,w,2022,r,czesc,ii.html)
 
-[Metar - o pogodzie na lotnisku w Krakowie](https://metar-taf.com/metar/EPKK)
+[Dane dotyczące pogody Kraków Airport (temperatura, widoczność, ciśnienie) - Metar, o pogodzie na lotnisku w Krakowie](https://metar-taf.com/metar/EPKK)
 
-[Kraków Airport - profil pasażera](https://krakowairport.pl/pl/firma/biznes/uslugi-lotnicze/statystyki/profil-pasazera)
+[Różnorodne dane dotyczące pasażerów (płeć, czas przyjazu na lotnisko, wiek, rodzaj odprawy, powód podróży) - Kraków Airport - profil pasażera](https://krakowairport.pl/pl/firma/biznes/uslugi-lotnicze/statystyki/profil-pasazera)
 
-[Balice FlightAware - EPKK](https://www.flightaware.com/live/airport/EPKK)
+[Dane dotyczące godzin wylotu i przylotu, typu samolotu etc. - Balice FlightAware - EPKK](https://www.flightaware.com/live/airport/EPKK)
 
-[Balice FlightAware - Weather](https://www.flightaware.com/resources/airport/EPKK/weather)
+[Dane pogodowe (temperatura, widoczność, ciśnienie, flight rules (zasady wykonywania lotów), kierunek wiatru) - Balice FlightAware - Weather](https://www.flightaware.com/resources/airport/EPKK/weather)
 
-[Kraków Airport - jest mgła](https://jestmgla.pl/en/#departures)
+[Dane dot. statusów lotów - Kraków Airport - jest mgła](https://jestmgla.pl/en/#departures)
 
-[Delayed flight compensation](https://aircashback.com/en/delayed-flight-compensation)
+[Dane dot. statusów lotów, widoczności, opóźnień - Delayed flight compensation](https://aircashback.com/en/delayed-flight-compensation)
 
-[Flight Delay Prediction with AI](https://www.sciencedirect.com/science/article/pii/S2213624X25003001#s0100)
+[Ciekawostka, przewidywanie modelem - Flight Delay Prediction with AI](https://www.sciencedirect.com/science/article/pii/S2213624X25003001#s0100)
